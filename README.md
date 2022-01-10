@@ -2,7 +2,8 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alan-turing-institute/stochastic-gp/HEAD)
 
-This repository contains examples using Gaussian Processes (GPs) to emulate agent-based models.
+This repository contains examples using Gaussian Processes (GPs) to emulate agent-based models. It was developed as part of the project [Uncertainty in agent-based models for smart city forecasts](https://www.turing.ac.uk/research/research-projects/uncertainty-agent-based-models-smart-city-forecasts), funded by the [Alan Turing Institute](https://www.turing.ac.uk/), in collaboration with the [Data Assimilation for Agent-Based Modelling](https://urban-analytics.github.io/dust/) project.
+
 Most of the files here use an agent-based model of bus movement as an example: the buses move between stops on a given route, picking up and dropping off passengers along the way.
 
 The bus model simulation files are taken from the `BusSim` project, which is in turn part of the Data Assimilation for Agent-Based Models (DUST) project at the University of Leeds.
